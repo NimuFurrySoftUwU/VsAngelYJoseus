@@ -81,8 +81,10 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-		        ['Android Port'],
-		        ['Saw (M.A. Jigsaw)','saw','Main Coder','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
+		        ['Team Vs Angel And Joseus']
+			['CherryNotFound','uwu','Codificador del mod de fnf','https://web.roblox.com/users/518868997/profile', 'F73838'],
+			['Angel','angel','Mi pana','https://web.roblox.com/users/363645809/profile', 'F73838'],
+			['Joseus','facha','el conchesumadre mas facha de todos','https://web.roblox.com/users/697902942/profile', 'F73838'],
 		        [''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
